@@ -1,6 +1,6 @@
 # Predicting Swiggy Restaurant Delivery Times  
 
-### STA 5737 | University of Central Florida | Individual Project – Anurag Elluru  
+
 
 ---
 
